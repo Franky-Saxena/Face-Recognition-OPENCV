@@ -5,6 +5,8 @@ In this project we uses the `OPENCV` module as `cv2` to detect the face of a per
 
 We use the `CascadeClassifier` to get the prewrote code to detect the face.
 
+In this project we are able to extract the specific object from the image also through help of OPENCV.
+
 ## To Detect the face
 run a following command in command prompt
 ```
